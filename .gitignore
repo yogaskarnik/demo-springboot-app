@@ -1,0 +1,33 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+**/target/
+**/out/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.nar
+*.db
+*.sql
+*.jks
+*.p12
+
+# IDE specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+*.eclipse
+*.settings/
+*.project
+*.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
